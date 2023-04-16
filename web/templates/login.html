@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='login.css') }}">
+    <title>Login Page</title>
+</head>
+<body>
+    <title>Login/Sign Up</title>
+    <div id="firebaseui-auth-container"></div>
+<script src="https://www.gstatic.com/firebasejs/7.14.5/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.14.5/firebase-auth.js"></script>
+<script> 
+    var firebaseConfig = {
+     apiKey: "AIzaSyB5TBIWL12Evf5WZ05U20zD4z6iZpsNT98",
+     authDomain: "tensor-cf43b.firebaseapp.com",
+     projectId: "tensor-cf43b",
+     storageBucket: "tensor-cf43b.appspot.com",
+     messagingSenderId: "683420042526",
+     appId: "1:683420042526:web:0efcb74aff5235e2bf350f",
+    measurementId: "G-KK32RWHEM2"
+    };
+    
+    firebase.initializeApp(firebaseConfig);
+</script>
+<script src="https://www.gstatic.com/firebasejs/ui/4.4.0/firebase-ui-auth.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/4.4.0/firebase-ui-auth.css" />
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

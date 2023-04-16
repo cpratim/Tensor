@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Tensor</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="../static/css/query.css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:500&display=swap" rel="stylesheet">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    </head>
+    <body>
+
+        <!-- <header>
+            <a class="logo" href="/"><img src="/src/img/oddish.png" alt="logo">Tensor</a>
+            <nav>
+                <ul class="nav__links">
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Projects</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>
+            </nav>
+            <a class="cta" href="#">Contact</a>
+        </header> -->
+        <main class="table">
+            <!-- <div id="header">
+                Header here
+            </div> -->
+
+            <div class="top-query">
+                <section class="table__header">
+                    <h1>Query Results</h1>
+                </section>
+
+                <div class="search-bar">
+                    <div class="dropdown">
+                        <div id="drop-text" class="dropdown-text">
+                            <span id="span"> Subject</span>
+                            <i id="icon" class='bx bx-chevron-down' ></i>
+                        </div>
+    
+                        <ul id="list" class="dropdown-list">
+                            <li class="dropdown-list-item">Math</li>
+                            <li class="dropdown-list-item">Computer Science</li>
+                            <li class="dropdown-list-item">Economics</li>
+                        </ul>
+                    </div>
+
+                    <div class="dropdown">
+                        <div id="drop-text" class="dropdown-text">
+                            <span id="span">Difficulty</span>
+                            <i id="icon" class='bx bx-chevron-down' ></i>
+                        </div>
+    
+                        <ul id="list" class="dropdown-list">
+                            <li class="dropdown-list-item">Easy</li>
+                            <li class="dropdown-list-item">Medium</li>
+                            <li class="dropdown-list-item">Hard</li>
+                        </ul>
+                    </div>
+
+                    <div class="dropdown">
+                        <div id="drop-text" class="dropdown-text">
+                            <span id="span">Length</span>
+                            <i id="icon" class='bx bx-chevron-down' ></i>
+                        </div>
+    
+                        <ul id="list" class="dropdown-list">
+                            <li class="dropdown-list-item">Short</li>
+                            <li class="dropdown-list-item">Medium</li>
+                            <li class="dropdown-list-item">Long</li>
+                        </ul>
+                    </div>
+    
+                    <div class="search-box">
+                        <input type="text" id="search-input" placeholder="Enter keywords here...">
+                        <i class='bx bx-search' ></i>
+                    </div>
+                </div>
+    
+                <div class="generate-button">
+                    <button class="button" id="button">Submit</button>
+                </div>
+            </div>
+
+            <section id="q_table" class="table__body">
+                <table>
+                    <thead>
+                        <tr>
+                            <th> Difficulty </th>
+                            <th> Likes </th>
+                            <th> Subject </th>
+                            <th> Question </th>
+                            <th> Answer </th>
+                            <th> Length </th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody">
+                    </tbody>
+                </table>
+            </section>
+        </main>
+        <script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+ 
+
+        <script src="https://www.gstatic.com/firebasejs/7.14.5/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.14.5/firebase-auth.js"></script>
+<script> 
+    var firebaseConfig = {
+     apiKey: "AIzaSyB5TBIWL12Evf5WZ05U20zD4z6iZpsNT98",
+     authDomain: "tensor-cf43b.firebaseapp.com",
+     projectId: "tensor-cf43b",
+     storageBucket: "tensor-cf43b.appspot.com",
+     messagingSenderId: "683420042526",
+     appId: "1:683420042526:web:0efcb74aff5235e2bf350f",
+    measurementId: "G-KK32RWHEM2"
+    };
+    
+    firebase.initializeApp(firebaseConfig);
+</script>
+<script src="https://www.gstatic.com/firebasejs/ui/4.4.0/firebase-ui-auth.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/4.4.0/firebase-ui-auth.css" />
+<script src="../static/js/query.js"></script>
+    </body>
+</html>

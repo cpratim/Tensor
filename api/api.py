@@ -3,6 +3,7 @@ import openai
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification, AdamW
 import torch
+from vision import extract_text
 
 difficulty_labels = ['easy', 'medium', 'hard']
 subject_labels    = ['math', 'computer science', 'economics']
@@ -23,6 +24,10 @@ class API(object):
         difficulty = difficulty_labels[torch.argmax(difficulty.logits, dim=1).item()]
         subject = subject_labels[torch.argmax(subject.logits, dim=1).item()]
         return difficulty, subject
+    
+    def get_question_text(self, image):
+        
+        return extract_text(image)
     
 
 if __name__ == '__main__':

@@ -1,6 +1,8 @@
 import json
 import os
 from api import API
+from random import randint
+from pprint import pprint
 
 api = API()
 
@@ -16,7 +18,6 @@ class Database(object):
                 continue
             with open(f'{path}/tables/{table}', 'r') as f:
                 self.database[table.split('.')[0]] = json.load(f)
-        
         
     def add_question(self, body, answer):
 
@@ -34,9 +35,26 @@ class Database(object):
         }
         self.save()
 
-    def add_like(self, idx):
-        self.database['questions'][idx]['likes'] += 1
-        self.save()
+    def get_size(self, length):
+        if length < 10:
+            return 'short'
+        elif length < 20:
+            return 'medium'
+        return 'long'
+
+    def query(self, query_json):
+        results = []
+        length_range = query_json['length_range']
+        difficulties = query_json['difficulty_range']
+        subjects     = query_json['subjects']
+        for idx in self.database['questions']:
+            question = self.database['questions'][idx]
+            size = self.get_size(len(question['question'].split()))
+            if size in length_range and question['difficulty'] in difficulties and question['subject'] in subjects:
+                results.append((idx, question['likes'], question['question'], question['answer'], question['difficulty'], question['subject']))
+
+        results.sort(key=lambda x: x[1], reverse=True)
+        return results
 
     def upload_image(self, image):
         idx = str(abs(hash(image)))
@@ -56,4 +74,14 @@ class Database(object):
 
 if __name__ == '__main__':
     db = Database('database')
-    db.add_question('What is the derivative of x^2?', '2x')
+
+    query = {
+        'length_range': ['short', 'medium', 'long'],
+        'difficulty_range': ['easy', 'medium', 'hard'],
+        'subjects': ['computer science']
+    }
+    results = db.query(query)
+    with open('sample_query.json', 'w') as f:
+        json.dump(results, f, indent=4)
+
+

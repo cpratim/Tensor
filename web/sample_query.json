@@ -1,0 +1,538 @@
+[
+  [
+      "1525931652061080249",
+      100,
+      "What happens when you assign a list to a new variable in Python?",
+      "The new variable points to the same list object as the original variable.",
+      "medium",
+      "computer science"
+  ],
+  [
+      "1916960080694875747",
+      97,
+      "What is the output of the following code: print('world'[2:4])",
+      "rl",
+      "easy",
+      "computer science"
+  ],
+  [
+      "3201918119799013285",
+      96,
+      "What is binary code and how is it used in computing?",
+      "Binary code is a system of representing data using only 0's and 1's. It is used in computing to represent all types of data and instructions that computers process.",
+      "medium",
+      "computer science"
+  ],
+  [
+      "8069805857050526040",
+      94,
+      "What is the output of the following code: print(2*(2+2)**2-3)",
+      "29",
+      "easy",
+      "computer science"
+  ],
+  [
+      "4159862440584887183",
+      92,
+      "What is the output of the following code: print(7+((9-3)*2)-1)",
+      "19",
+      "easy",
+      "computer science"
+  ],
+  [
+      "6741647309125439263",
+      92,
+      "What is the time complexity of the bucket sort algorithm?",
+      "O(n+k)",
+      "hard",
+      "computer science"
+  ],
+  [
+      "651766689181805602",
+      92,
+      "What is the result of evaluating the postfix expression '8 4 / 9 * 3 /'?",
+      "1",
+      "medium",
+      "computer science"
+  ],
+  [
+      "3273687523449322420",
+      91,
+      "What is the purpose of an algorithm in computer science?",
+      "To provide a step-by-step solution to a problem or task",
+      "hard",
+      "computer science"
+  ],
+  [
+      "3013635970694844936",
+      89,
+      "What does HTML stand for?",
+      "Hypertext Markup Language",
+      "medium",
+      "computer science"
+  ],
+  [
+      "4001612648658188156",
+      86,
+      "What is the output of the following code: print(3*3/2-1)",
+      "4.5",
+      "easy",
+      "computer science"
+  ],
+  [
+      "6488472386730887437",
+      86,
+      "If you use slicing to create a copy of a list, will the copy be independent of the original?",
+      "Yes, because a new list object is created.",
+      "medium",
+      "computer science"
+  ],
+  [
+      "5303796209480005254",
+      86,
+      "What does the acronym HTML stand for?",
+      "Hyper Text Markup Language",
+      "medium",
+      "computer science"
+  ],
+  [
+      "6750542009618846630",
+      85,
+      "What is an algorithm?",
+      "A step-by-step set of instructions for solving a problem or accomplishing a task.",
+      "hard",
+      "computer science"
+  ],
+  [
+      "2026236011875619098",
+      84,
+      "How do you remove an item from a list in Python?",
+      "using the remove() method",
+      "medium",
+      "computer science"
+  ],
+  [
+      "5613547245168506859",
+      82,
+      "What is the output of the following code: print('python'[:2])",
+      "py",
+      "easy",
+      "computer science"
+  ],
+  [
+      "6075679371361940044",
+      82,
+      "What is the result of evaluating the postfix expression '1 2 3 * +'?",
+      "7",
+      "medium",
+      "computer science"
+  ],
+  [
+      "3146247463450946818",
+      78,
+      "What is the time complexity of the merge sort algorithm?",
+      "O(n log n)",
+      "hard",
+      "computer science"
+  ],
+  [
+      "5059799375537798833",
+      73,
+      "What is the time complexity of the bubble sort algorithm?",
+      "O(n^2)",
+      "hard",
+      "computer science"
+  ],
+  [
+      "4222279828663542528",
+      70,
+      "What is the output of the following code: print('hello'[-3:-1])",
+      "ll",
+      "easy",
+      "computer science"
+  ],
+  [
+      "8783594336216209971",
+      70,
+      "What is an algorithm in computer science and how is it used?",
+      "An algorithm is a set of specific steps that solves a particular problem or completes a particular task. Algorithms are used in programming to create software applications and automate tasks.",
+      "medium",
+      "computer science"
+  ],
+  [
+      "8953436198553272839",
+      66,
+      "What is the output of the following code: print((8-3)*2+9/3)",
+      "13",
+      "easy",
+      "computer science"
+  ],
+  [
+      "3444823852335158163",
+      65,
+      "What is the output of the following code: print(5-2*3)",
+      "-1",
+      "easy",
+      "computer science"
+  ],
+  [
+      "7882017081789574927",
+      65,
+      "What is the result of evaluating the postfix expression '4 2 / 3 * 5 +'?",
+      "11",
+      "medium",
+      "computer science"
+  ],
+  [
+      "3813153610026764400",
+      62,
+      "What is the time complexity of the shell sort algorithm?",
+      "O(n log n)",
+      "hard",
+      "computer science"
+  ],
+  [
+      "3157982253390334350",
+      59,
+      "What is the result of evaluating the postfix expression '1 2 + 3 4 + /'?",
+      "0.375",
+      "medium",
+      "computer science"
+  ],
+  [
+      "7725218919782969271",
+      58,
+      "What is the result of evaluating the postfix expression '12 4 / 2 5 * +'?",
+      "14",
+      "medium",
+      "computer science"
+  ],
+  [
+      "8983255475632557466",
+      54,
+      "What is the time complexity of the heap sort algorithm?",
+      "O(n log n)",
+      "hard",
+      "computer science"
+  ],
+  [
+      "211002963139826414",
+      54,
+      "What is the output of the following code: print('example'[4:-1])",
+      "pl",
+      "easy",
+      "computer science"
+  ],
+  [
+      "3035650464066799475",
+      54,
+      "What is the result of evaluating the postfix expression '5 6 + 7 -'?",
+      "-2",
+      "medium",
+      "computer science"
+  ],
+  [
+      "7702330512771578524",
+      54,
+      "What is the purpose of the modulo operator in programming?",
+      "It returns the remainder of a division operation between two numbers",
+      "medium",
+      "computer science"
+  ],
+  [
+      "5251707729584391022",
+      53,
+      "What is the output of the following code: print(list(range(0, 5, 2))))?",
+      "[0, 2, 4]",
+      "easy",
+      "computer science"
+  ],
+  [
+      "3919351313715739416",
+      52,
+      "What is the time complexity of the quicksort algorithm?",
+      "O(n^2) in the worst case, but O(n log n) on average",
+      "hard",
+      "computer science"
+  ],
+  [
+      "3621875933699654913",
+      51,
+      "What is the output of the following code: print(10%3+2-5)",
+      "-1",
+      "easy",
+      "computer science"
+  ],
+  [
+      "6937320104037283159",
+      49,
+      "What is the result of evaluating the postfix expression '9 3 / 7 6 - * 8 +'?",
+      "11",
+      "medium",
+      "computer science"
+  ],
+  [
+      "2892086159718020686",
+      47,
+      "What is the time complexity of the insertion sort algorithm?",
+      "O(n^2)",
+      "hard",
+      "computer science"
+  ],
+  [
+      "1243150450162144661",
+      45,
+      "What is the time complexity of the counting sort algorithm?",
+      "O(n+k)",
+      "hard",
+      "computer science"
+  ],
+  [
+      "1956804525641594485",
+      41,
+      "What is a hash table in computer science?",
+      "A hash table is a data structure that allows for quick lookup of data based on a key. It uses a hash function to convert a key into a unique index within an array, making it possible to retrieve data in constant time",
+      "medium",
+      "computer science"
+  ],
+  [
+      "7023839418495511068",
+      41,
+      "What is an algorithm in computer science?",
+      "A set of steps or instructions that solve a specific problem or accomplish a specific task.",
+      "hard",
+      "computer science"
+  ],
+  [
+      "602150346567238030",
+      39,
+      "What is the output of the following code: print('python'[3:6])",
+      "hon",
+      "easy",
+      "computer science"
+  ],
+  [
+      "926230551886644389",
+      38,
+      "How do you check if an item exists in a list in Python?",
+      "using the 'in' keyword",
+      "medium",
+      "computer science"
+  ],
+  [
+      "1185144313454208527",
+      37,
+      "What is the output of the following code: x = [1, [2, 3], 4] y = x.copy() y[1][0] = 9 print(x)",
+      "[1, [9, 3], 4]",
+      "easy",
+      "computer science"
+  ],
+  [
+      "6000281249451382553",
+      35,
+      "What is a break statement used for?",
+      "To exit a loop and stop its execution",
+      "medium",
+      "computer science"
+  ],
+  [
+      "4518719875933437083",
+      29,
+      "What is the result of evaluating the postfix expression '9 8 - 7 6 - *'?",
+      "15",
+      "medium",
+      "computer science"
+  ],
+  [
+      "3084758465420386992",
+      26,
+      "If you modify a list that was assigned to two different variables, will the changes appear in both variables?",
+      "Yes, because they point to the same list object.",
+      "medium",
+      "computer science"
+  ],
+  [
+      "1971181581861009919",
+      23,
+      "What is the output of the following code: print('happy'[1:])",
+      "appy",
+      "easy",
+      "computer science"
+  ],
+  [
+      "5381666974851484732",
+      23,
+      "What is the output of the following code: print('computer'[:-3])",
+      "comput",
+      "easy",
+      "computer science"
+  ],
+  [
+      "4724123323521304326",
+      23,
+      "What is the output of the following code: print(len('coding is fun'))",
+      "13",
+      "easy",
+      "computer science"
+  ],
+  [
+      "6921113818263182390",
+      23,
+      "What is the result of evaluating the postfix expression '3 4 * 5 / 6 7 * -'?",
+      "-6.4285",
+      "medium",
+      "computer science"
+  ],
+  [
+      "1025153696486671740",
+      23,
+      "What is the output of the following code: x = [1, 2, 3] y = [4, 5, 6] z = x + y print(z)",
+      "[1, 2, 3, 4, 5, 6]",
+      "easy",
+      "computer science"
+  ],
+  [
+      "4825174164736921725",
+      20,
+      "What is the output of the following code: print(2**3**2)",
+      "512",
+      "easy",
+      "computer science"
+  ],
+  [
+      "5350722283097907480",
+      19,
+      "What does the method split() do in Python?",
+      "splits a string into a list of substrings based on a specified separator",
+      "easy",
+      "computer science"
+  ],
+  [
+      "3774484249603747244",
+      17,
+      "What is the output of the following code: print(12/3-2+7//2)",
+      "9",
+      "easy",
+      "computer science"
+  ],
+  [
+      "5347712635168069398",
+      17,
+      "What is the output of the following code: print('programming'in 'python programming')",
+      "True",
+      "easy",
+      "computer science"
+  ],
+  [
+      "8630564287809934513",
+      15,
+      "What is the output of the following code: print(4**2-3**3)",
+      "-19",
+      "easy",
+      "computer science"
+  ],
+  [
+      "8551615145504342181",
+      15,
+      "What is the output of the following code: x = [1, 2, 3] y = x[1:2] y[0] = 4 print(x)",
+      "[1, 2, 3]",
+      "easy",
+      "computer science"
+  ],
+  [
+      "1047986265558155188",
+      14,
+      "What is the time complexity of the cocktail sort algorithm?",
+      "O(n^2)",
+      "hard",
+      "computer science"
+  ],
+  [
+      "1384795578167409147",
+      14,
+      "What is the output of the following code: print(len([1, 2, 'a', 'b']))?",
+      "4",
+      "easy",
+      "computer science"
+  ],
+  [
+      "3247330397827743648",
+      13,
+      "What is an algorithm in computer science?",
+      "A step-by-step procedure to solve a problem or complete a task",
+      "hard",
+      "computer science"
+  ],
+  [
+      "6058482820400663242",
+      10,
+      "What is the output of the following code: print('hello'.count('l'))?",
+      "2",
+      "easy",
+      "computer science"
+  ],
+  [
+      "2091424328620620564",
+      9,
+      "What is the output of the following code: x = [1, 2, 3] x.insert(1, 4) print(x)",
+      "[1, 4, 2, 3]",
+      "easy",
+      "computer science"
+  ],
+  [
+      "8153171339536093110",
+      8,
+      "What is the output of the following code: print('apple banana cherry'.split('a'))?",
+      "['', 'pple b', 'n', 'n', ' cherry']",
+      "easy",
+      "computer science"
+  ],
+  [
+      "6466447289295102295",
+      6,
+      "What is the output of the following code: x = [1, 2, 3] x.pop() print(x)",
+      "[1, 2]",
+      "easy",
+      "computer science"
+  ],
+  [
+      "4385336429779208459",
+      3,
+      "What is the result of evaluating the postfix expression '5 5 * 6 2 / +'?",
+      "31",
+      "medium",
+      "computer science"
+  ],
+  [
+      "1716038239534317835",
+      3,
+      "What is a recursive function in computer science?",
+      "A recursive function is a function that calls itself within its own definition. This is often used to solve problems that can be broken down into smaller subproblems, with each subproblem being identical in structure to the original problem.",
+      "medium",
+      "computer science"
+  ],
+  [
+      "5711073138533567122",
+      2,
+      "Can you create a copy of a list without affecting the original list?",
+      "Yes, by using the list() function or slicing it.",
+      "medium",
+      "computer science"
+  ],
+  [
+      "2440234626733880732",
+      1,
+      "How do you access the first element of a list in Python?",
+      "using list[0]",
+      "medium",
+      "computer science"
+  ],
+  [
+      "8955618558430276432",
+      0,
+      "What is the time complexity of the radix sort algorithm?",
+      "O(nk)",
+      "hard",
+      "computer science"
+  ]
+]

@@ -1,0 +1,1451 @@
+{
+    "2957559131742585375": {
+        "question": "What is the derivative of x^2?",
+        "answer": "2x",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 41
+    },
+    "4518597701486377775": {
+        "question": "What is the derivative of x^2?",
+        "answer": "2x",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 81
+    },
+    "9044469555057171597": {
+        "question": "What is the value of the limit as x approaches 2 of (x^2 - 4x + 4) / (x - 2) ?",
+        "answer": "4",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 97
+    },
+    "2730012222078037022": {
+        "question": "What is the value of the limit as x approaches -5 of (x^3 + 5x^2 - 75x) / (x + 5) ?",
+        "answer": "-250",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 78
+    },
+    "8151364725845048617": {
+        "question": "What is the value of the limit as x approaches infinity of (2x^2 - 5x + 1) / (3x^2 + 4x + 1) ?",
+        "answer": "2/3",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 74
+    },
+    "8021975783667645476": {
+        "question": "What is the value of the limit as x approaches 1 of (x^3 - 3x^2 + x + 1) / (x - 1)^2 ?",
+        "answer": "0",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 93
+    },
+    "8603784764311109227": {
+        "question": "What is the value of the limit as x approaches 3pi/2 of sin(2x) ?",
+        "answer": "-1",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 18
+    },
+    "431153324312846277": {
+        "question": "What is the value of the limit as x approaches 0 from the left of tan(1/x) ?",
+        "answer": "-infinity",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 88
+    },
+    "6087059785908504467": {
+        "question": "What is the value of the limit as x approaches 1 of (x - 1) / ln(x) ?",
+        "answer": "1",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 16
+    },
+    "1751342612539174806": {
+        "question": "What is the value of the limit as x approaches infinity of (3x^2 - 2x + 1) / (x^3 + 5x^2 + 2) ?",
+        "answer": "0",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 19
+    },
+    "8161386762573224090": {
+        "question": "What is the value of the limit as x approaches -1 from the left of (x^2 - 1) / (x + 1) ?",
+        "answer": "-2",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 64
+    },
+    "4228626686655608289": {
+        "question": "What is the value of the limit as x approaches pi/3 of (cos(x/2) - sqrt(3)) / (x - pi/3) ?",
+        "answer": "-(1/4)sqrt(3)",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 10
+    },
+    "5631495306238404435": {
+        "question": "What are the two types of economies?",
+        "answer": "Command economy and market economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 2
+    },
+    "5234431445105350681": {
+        "question": "Who makes all economic decisions in a command economy?",
+        "answer": "The government.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 12
+    },
+    "163610125898208415": {
+        "question": "What do individuals and businesses rely on to make economic decisions in a market economy?",
+        "answer": "Supply and demand.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 74
+    },
+    "8634585090814722914": {
+        "question": "What type of economy allows for more personal freedom?",
+        "answer": "Market economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 40
+    },
+    "3525584976479277716": {
+        "question": "What type of economy allows for more government control?",
+        "answer": "Command economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 42
+    },
+    "396205173442378524": {
+        "question": "In which type of economy do individuals have more economic power?",
+        "answer": "Market economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 16
+    },
+    "928985633342836033": {
+        "question": "Which type of economy is more common in the world today?",
+        "answer": "Market economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 91
+    },
+    "5746608284637405509": {
+        "question": "What type of economy is North Korea an example of?",
+        "answer": "Command economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 10
+    },
+    "5294350043312191637": {
+        "question": "What type of economy is the United States an example of?",
+        "answer": "Market economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 6
+    },
+    "5153489040684614310": {
+        "question": "What is the most significant difference between command and market economies?",
+        "answer": "The role of the government in economic decision-making.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 97
+    },
+    "1053310187987577108": {
+        "question": "What is the purpose of a census?",
+        "answer": "To collect and record data about a population.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 37
+    },
+    "1970415615048526637": {
+        "question": "What is the main function of the Federal Reserve?",
+        "answer": "To oversee the monetary policy of the United States and regulate its banking system.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 68
+    },
+    "8280344161766490560": {
+        "question": "What is an oligopoly?",
+        "answer": "A market structure in which a few large firms dominate the industry.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 39
+    },
+    "4372804770756321328": {
+        "question": "What is a budget deficit?",
+        "answer": "When a government spends more money than it receives in revenue.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 71
+    },
+    "4586728410904872411": {
+        "question": "What is the difference between a stock and a bond?",
+        "answer": "A stock represents ownership in a company, while a bond represents a loan made to a company or government.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 52
+    },
+    "892017284037912221": {
+        "question": "What is the purpose of a patent?",
+        "answer": "To give the owner exclusive rights to sell or manufacture an invention for a certain amount of time.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 65
+    },
+    "7544552611720260929": {
+        "question": "What is the difference between a debit card and a credit card?",
+        "answer": "A debit card withdraws money directly from a consumer's account, while a credit card allows a consumer to borrow money to make purchases.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 84
+    },
+    "3025477143652842039": {
+        "question": "What is the definition of GDP?",
+        "answer": "Gross Domestic Product measures the value of all goods and services produced within a country's borders in a given period of time.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 40
+    },
+    "8233708100350321959": {
+        "question": "What is the purpose of a trade union?",
+        "answer": "To advocate for and protect the rights of workers within a particular industry or occupation.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 18
+    },
+    "4001612648658188156": {
+        "question": "What is the output of the following code: print(3*3/2-1)",
+        "answer": "4.5",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 86
+    },
+    "8630564287809934513": {
+        "question": "What is the output of the following code: print(4**2-3**3)",
+        "answer": "-19",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 15
+    },
+    "3621875933699654913": {
+        "question": "What is the output of the following code: print(10%3+2-5)",
+        "answer": "-1",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 51
+    },
+    "8953436198553272839": {
+        "question": "What is the output of the following code: print((8-3)*2+9/3)",
+        "answer": "13",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 66
+    },
+    "4825174164736921725": {
+        "question": "What is the output of the following code: print(2**3**2)",
+        "answer": "512",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 20
+    },
+    "8069805857050526040": {
+        "question": "What is the output of the following code: print(2*(2+2)**2-3)",
+        "answer": "29",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 94
+    },
+    "4159862440584887183": {
+        "question": "What is the output of the following code: print(7+((9-3)*2)-1)",
+        "answer": "19",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 92
+    },
+    "3774484249603747244": {
+        "question": "What is the output of the following code: print(12/3-2+7//2)",
+        "answer": "9",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 17
+    },
+    "3444823852335158163": {
+        "question": "What is the output of the following code: print(5-2*3)",
+        "answer": "-1",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 65
+    },
+    "5059799375537798833": {
+        "question": "What is the time complexity of the bubble sort algorithm?",
+        "answer": "O(n^2)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 73
+    },
+    "3146247463450946818": {
+        "question": "What is the time complexity of the merge sort algorithm?",
+        "answer": "O(n log n)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 78
+    },
+    "3919351313715739416": {
+        "question": "What is the time complexity of the quicksort algorithm?",
+        "answer": "O(n^2) in the worst case, but O(n log n) on average",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 52
+    },
+    "2892086159718020686": {
+        "question": "What is the time complexity of the insertion sort algorithm?",
+        "answer": "O(n^2)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 47
+    },
+    "8983255475632557466": {
+        "question": "What is the time complexity of the heap sort algorithm?",
+        "answer": "O(n log n)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 54
+    },
+    "8955618558430276432": {
+        "question": "What is the time complexity of the radix sort algorithm?",
+        "answer": "O(nk)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "3813153610026764400": {
+        "question": "What is the time complexity of the shell sort algorithm?",
+        "answer": "O(n log n)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 62
+    },
+    "1243150450162144661": {
+        "question": "What is the time complexity of the counting sort algorithm?",
+        "answer": "O(n+k)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 45
+    },
+    "6741647309125439263": {
+        "question": "What is the time complexity of the bucket sort algorithm?",
+        "answer": "O(n+k)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 92
+    },
+    "1047986265558155188": {
+        "question": "What is the time complexity of the cocktail sort algorithm?",
+        "answer": "O(n^2)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 14
+    },
+    "1916960080694875747": {
+        "question": "What is the output of the following code: print('world'[2:4])",
+        "answer": "rl",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 97
+    },
+    "602150346567238030": {
+        "question": "What is the output of the following code: print('python'[3:6])",
+        "answer": "hon",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 39
+    },
+    "1971181581861009919": {
+        "question": "What is the output of the following code: print('happy'[1:])",
+        "answer": "appy",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 23
+    },
+    "5613547245168506859": {
+        "question": "What is the output of the following code: print('python'[:2])",
+        "answer": "py",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 82
+    },
+    "5381666974851484732": {
+        "question": "What is the output of the following code: print('computer'[:-3])",
+        "answer": "comput",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 23
+    },
+    "4222279828663542528": {
+        "question": "What is the output of the following code: print('hello'[-3:-1])",
+        "answer": "ll",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 70
+    },
+    "211002963139826414": {
+        "question": "What is the output of the following code: print('example'[4:-1])",
+        "answer": "pl",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 54
+    },
+    "5347712635168069398": {
+        "question": "What is the output of the following code: print('programming'in 'python programming')",
+        "answer": "True",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 17
+    },
+    "4724123323521304326": {
+        "question": "What is the output of the following code: print(len('coding is fun'))",
+        "answer": "13",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 23
+    },
+    "2789717915579110639": {
+        "question": "What is the value of the definite integral of sin(x) with respect to x from 0 to pi?",
+        "answer": "2",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 83
+    },
+    "249923608522743503": {
+        "question": "What is the value of the definite integral of e^(2x) with respect to x from 0 to infinity?",
+        "answer": "infinity",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 8
+    },
+    "3404836764672531294": {
+        "question": "What is the value of the definite integral of 1/x with respect to x from 1 to e?",
+        "answer": "ln(e)-ln(1)=1",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 1
+    },
+    "5174246889610921807": {
+        "question": "What is the value of the definite integral of sqrt(x) with respect to x from 0 to 4?",
+        "answer": "(2/3)(4^(3/2)-0^(3/2))=(8/3)",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 78
+    },
+    "3511291151022367385": {
+        "question": "What is the value of the definite integral of cos(x) with respect to x from pi/4 to 3pi/4?",
+        "answer": "sin(3pi/4)-sin(pi/4)=sqrt(2)/2",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 60
+    },
+    "5459887616044559531": {
+        "question": "What is the value of the definite integral of ln(x) with respect to x from 1 to e?",
+        "answer": "e-1",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 28
+    },
+    "7763564478117346175": {
+        "question": "What is the value of the definite integral of 2x+1 with respect to x from -1 to 1?",
+        "answer": "4",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 96
+    },
+    "6819447774665416726": {
+        "question": "What is the value of the definite integral of xe^(x^2) with respect to x from 0 to 1?",
+        "answer": " (e-1)/2",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 9
+    },
+    "6781980661849105093": {
+        "question": "What is the value of the definite integral of sin^2(x) with respect to x from 0 to pi/2?",
+        "answer": "(pi)/4",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 23
+    },
+    "3035650464066799475": {
+        "question": "What is the result of evaluating the postfix expression '5 6 + 7 -'?",
+        "answer": "-2",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 54
+    },
+    "6075679371361940044": {
+        "question": "What is the result of evaluating the postfix expression '1 2 3 * +'?",
+        "answer": "7",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 82
+    },
+    "4518719875933437083": {
+        "question": "What is the result of evaluating the postfix expression '9 8 - 7 6 - *'?",
+        "answer": "15",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 29
+    },
+    "7882017081789574927": {
+        "question": "What is the result of evaluating the postfix expression '4 2 / 3 * 5 +'?",
+        "answer": "11",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 65
+    },
+    "651766689181805602": {
+        "question": "What is the result of evaluating the postfix expression '8 4 / 9 * 3 /'?",
+        "answer": "1",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 92
+    },
+    "4385336429779208459": {
+        "question": "What is the result of evaluating the postfix expression '5 5 * 6 2 / +'?",
+        "answer": "31",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 3
+    },
+    "3157982253390334350": {
+        "question": "What is the result of evaluating the postfix expression '1 2 + 3 4 + /'?",
+        "answer": "0.375",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 59
+    },
+    "6921113818263182390": {
+        "question": "What is the result of evaluating the postfix expression '3 4 * 5 / 6 7 * -'?",
+        "answer": "-6.4285",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 23
+    },
+    "7725218919782969271": {
+        "question": "What is the result of evaluating the postfix expression '12 4 / 2 5 * +'?",
+        "answer": "14",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 58
+    },
+    "6937320104037283159": {
+        "question": "What is the result of evaluating the postfix expression '9 3 / 7 6 - * 8 +'?",
+        "answer": "11",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 49
+    },
+    "2366603185548504577": {
+        "question": "What is protectionism? ",
+        "answer": " Protectionism is the use of trade barriers to protect domestic industries from foreign competition.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 2
+    },
+    "8208758325993851231": {
+        "question": "What is a trade deficit? ",
+        "answer": " A trade deficit occurs when a country imports more goods than it exports.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 73
+    },
+    "5491943036834956502": {
+        "question": "What is comparative advantage? ",
+        "answer": " Comparative advantage is when a country can produce a good or service at a lower opportunity cost than another country.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 62
+    },
+    "8970235500405419668": {
+        "question": "What is the World Trade Organization (WTO)? ",
+        "answer": " The WTO is an international organization that regulates global trade and resolves disputes between member countries.",
+        "difficulty": "easy",
+        "subject": "economics",
+        "likes": 88
+    },
+    "4630971141627169309": {
+        "question": "What is NAFTA? ",
+        "answer": " NAFTA is a trade agreement between Canada, Mexico, and the United States that eliminates trade barriers between the three countries.",
+        "difficulty": "easy",
+        "subject": "economics",
+        "likes": 66
+    },
+    "281118805904349559": {
+        "question": "What is a free trade agreement? ",
+        "answer": " A free trade agreement is a pact between two or more countries that eliminates trade barriers and tariffs on goods and services traded between them.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 26
+    },
+    "4951325579441431884": {
+        "question": "What is a currency exchange rate? ",
+        "answer": " A currency exchange rate is the price of one country's currency in terms of another country's currency.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 47
+    },
+    "546317137812810691": {
+        "question": "What is the balance of trade? ",
+        "answer": " The balance of trade is the difference between a country's total exports and total imports.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 78
+    },
+    "5279513256134720889": {
+        "question": "What is mercantilism? ",
+        "answer": " Mercantilism is an economic theory that holds that a country's wealth is measured by its holdings of gold and silver, and that a country's exports should exceed its imports.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 70
+    },
+    "1194145475314202377": {
+        "question": "What is the probability of rolling a 2 on a fair six-sided die?",
+        "answer": "1/6",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 1
+    },
+    "7159958265385669791": {
+        "question": "What is the probability of rolling an odd number on a fair six-sided die?",
+        "answer": "1/2",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 21
+    },
+    "8882877627778257341": {
+        "question": "What is the probability of rolling a number greater than 4 on a fair six-sided die?",
+        "answer": "1/3",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 6
+    },
+    "7878123958298613010": {
+        "question": "What is the probability of rolling a number less than 3 on a fair six-sided die?",
+        "answer": "1/3",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 1
+    },
+    "8154382272259382252": {
+        "question": "What is the probability of rolling a 6 on a fair six-sided die?",
+        "answer": "1/6",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 71
+    },
+    "7518984020256502674": {
+        "question": "What is the probability of rolling a number less than or equal to 2 on a fair six-sided die?",
+        "answer": "1/3",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 62
+    },
+    "9107433872521959329": {
+        "question": "What is the probability of rolling an even number on a fair six-sided die?",
+        "answer": "1/2",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 15
+    },
+    "448616219633819498": {
+        "question": "What is the probability of rolling a number greater than or equal to 5 on a fair six-sided die?",
+        "answer": "1/3",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 76
+    },
+    "3857684658998321385": {
+        "question": "What is the probability of rolling a number less than 6 on a fair six-sided die?",
+        "answer": "5/6",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 77
+    },
+    "7785233324446714620": {
+        "question": "What is the sum of the first 50 positive integers?",
+        "answer": "1275",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 69
+    },
+    "5585320942264013059": {
+        "question": "What is the sum of the first 200 positive integers?",
+        "answer": "20100",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 73
+    },
+    "2621655289929721678": {
+        "question": "What is the sum of the first 10 positive integers?",
+        "answer": "55",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 86
+    },
+    "2579140959819736334": {
+        "question": "What is the sum of the first 500 positive integers?",
+        "answer": "125250",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 37
+    },
+    "9148028579606062762": {
+        "question": "What is the sum of the first 20 positive integers?",
+        "answer": "210",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 65
+    },
+    "2531579972981025728": {
+        "question": "What is the sum of the first 1000 positive integers?",
+        "answer": "500500",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 72
+    },
+    "5316076953564690612": {
+        "question": "What is the sum of the first 25 positive integers?",
+        "answer": "325",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 29
+    },
+    "7564603557469190138": {
+        "question": "What is the sum of the first 50 even positive integers?",
+        "answer": "2550",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 93
+    },
+    "4562192954143424008": {
+        "question": "What is the sum of the first 100 odd positive integers?",
+        "answer": "10000",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 71
+    },
+    "1525931652061080249": {
+        "question": "What happens when you assign a list to a new variable in Python?",
+        "answer": "The new variable points to the same list object as the original variable.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 100
+    },
+    "3084758465420386992": {
+        "question": "If you modify a list that was assigned to two different variables, will the changes appear in both variables?",
+        "answer": "Yes, because they point to the same list object.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 26
+    },
+    "5711073138533567122": {
+        "question": "Can you create a copy of a list without affecting the original list?",
+        "answer": "Yes, by using the list() function or slicing it.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 2
+    },
+    "6488472386730887437": {
+        "question": "If you use slicing to create a copy of a list, will the copy be independent of the original?",
+        "answer": "Yes, because a new list object is created.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 86
+    },
+    "1118334014946255814": {
+        "question": "What is the difference between shallow and deep copy of a list?",
+        "answer": "Shallow copy only copies the top-level elements, while deep copy copies the whole nested structure.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 98
+    },
+    "8551615145504342181": {
+        "question": "What is the output of the following code: x = [1, 2, 3] y = x[1:2] y[0] = 4 print(x)",
+        "answer": "[1, 2, 3]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 15
+    },
+    "1185144313454208527": {
+        "question": "What is the output of the following code: x = [1, [2, 3], 4] y = x.copy() y[1][0] = 9 print(x)",
+        "answer": "[1, [9, 3], 4]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 37
+    },
+    "1025153696486671740": {
+        "question": "What is the output of the following code: x = [1, 2, 3] y = [4, 5, 6] z = x + y print(z)",
+        "answer": "[1, 2, 3, 4, 5, 6]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 23
+    },
+    "6466447289295102295": {
+        "question": "What is the output of the following code: x = [1, 2, 3] x.pop() print(x)",
+        "answer": "[1, 2]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 6
+    },
+    "2091424328620620564": {
+        "question": "What is the output of the following code: x = [1, 2, 3] x.insert(1, 4) print(x)",
+        "answer": "[1, 4, 2, 3]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 9
+    },
+    "5350722283097907480": {
+        "question": "What does the method split() do in Python?",
+        "answer": "splits a string into a list of substrings based on a specified separator",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 19
+    },
+    "8153171339536093110": {
+        "question": "What is the output of the following code: print('apple banana cherry'.split('a'))?",
+        "answer": "['', 'pple b', 'n', 'n', ' cherry']",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 8
+    },
+    "2440234626733880732": {
+        "question": "How do you access the first element of a list in Python?",
+        "answer": "using list[0]",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 1
+    },
+    "1384795578167409147": {
+        "question": "What is the output of the following code: print(len([1, 2, 'a', 'b']))?",
+        "answer": "4",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 14
+    },
+    "2026236011875619098": {
+        "question": "How do you remove an item from a list in Python?",
+        "answer": "using the remove() method",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 84
+    },
+    "5251707729584391022": {
+        "question": "What is the output of the following code: print(list(range(0, 5, 2))))?",
+        "answer": "[0, 2, 4]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 53
+    },
+    "2833022856703403723": {
+        "question": "What is the difference between a tuple and a list in Python?",
+        "answer": "a tuple is immutable and a list is mutable",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 33
+    },
+    "6058482820400663242": {
+        "question": "What is the output of the following code: print('hello'.count('l'))?",
+        "answer": "2",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 10
+    },
+    "926230551886644389": {
+        "question": "How do you check if an item exists in a list in Python?",
+        "answer": "using the 'in' keyword",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 38
+    },
+    "6086211211392433479": {
+        "question": "What is the Pythagorean theorem?",
+        "answer": "c\u00b2 = a\u00b2 + b\u00b2",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 20
+    },
+    "1774011263207508269": {
+        "question": "What is the formula to calculate GDP?",
+        "answer": "GDP = C + I + G + NX",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "4620012408670653184": {
+        "question": "What is the difference between a compiler and an interpreter?",
+        "answer": "A compiler translates source code into machine code, while an interpreter executes the source code line by line.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 61
+    },
+    "7448651338783379662": {
+        "question": "What is the quadratic formula?",
+        "answer": "x = (-b \u00b1 sqrt(b\u00b2 - 4ac))/2a",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 17
+    },
+    "3506076270988405157": {
+        "question": "What is the Law of Supply and Demand?",
+        "answer": "The price of a good or service will adjust to bring the quantity supplied and quantity demanded into balance.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 18
+    },
+    "1404284377274944476": {
+        "question": "What is the difference between microeconomics and macroeconomics?",
+        "answer": "Microeconomics studies the behavior of individual consumers and firms, while macroeconomics studies the economy as a whole.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 52
+    },
+    "7499049897170112940": {
+        "question": "What is the formula for calculating simple interest?",
+        "answer": "I = Prt (where I is the interest, P is the principal, r is the interest rate, and t is the time in years)",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 78
+    },
+    "6750542009618846630": {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step set of instructions for solving a problem or accomplishing a task.",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 85
+    },
+    "7195054289921736248": {
+        "question": "What is the difference between a function and a method in programming?",
+        "answer": "A function is an independent block of code that can return a value, while a method is a function that is associated with an object or a class.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 97
+    },
+    "9145632391214614424": {
+        "question": "What is the Pythagorean theorem and how is it used?",
+        "answer": "The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse (the longest side) is equal to the sum of the squares of the other two sides. It is often used to find the length of one side of a right triangle, given the lengths of the other two sides.",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 96
+    },
+    "4111261808672138681": {
+        "question": "What is the law of supply and demand?",
+        "answer": "The law of supply and demand states that in a competitive market, the price of a good or service will adjust until it reaches a point where the quantity supplied by producers is equal to the quantity demanded by consumers.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 92
+    },
+    "1271296806722132594": {
+        "question": "What is the difference between a binary search and a linear search algorithm?",
+        "answer": "A binary search algorithm is more efficient than a linear search algorithm because it cuts the search space in half with each iteration, whereas a linear search algorithm checks every element one by one. Binary search is O(log n) while linear search is O(n).",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 94
+    },
+    "2694545443434051014": {
+        "question": "What is the difference between profit and revenue in economics?",
+        "answer": "Revenue is the total amount of money a company earns from the sale of its products or services, while profit is the amount of money left over after all expenses have been paid.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 28
+    },
+    "3030632793839204256": {
+        "question": "What is the difference between a stack and a queue data structure?",
+        "answer": "A stack is a Last-In-First-Out (LIFO) data structure, meaning that the last item added to the stack is the first one to be removed. A queue is a First-In-First-Out (FIFO) data structure, meaning that the first item added to the queue is the first one to be removed.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 78
+    },
+    "1716038239534317835": {
+        "question": "What is a recursive function in computer science?",
+        "answer": "A recursive function is a function that calls itself within its own definition. This is often used to solve problems that can be broken down into smaller subproblems, with each subproblem being identical in structure to the original problem.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 3
+    },
+    "5315964084732819614": {
+        "question": "What is the difference between microeconomics and macroeconomics?",
+        "answer": "Microeconomics is the study of individual economic behavior, such as how an individual consumer or firm makes decisions about what to buy or sell. Macroeconomics is the study of broader economic trends and patterns, such as inflation or economic growth.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 45
+    },
+    "1956804525641594485": {
+        "question": "What is a hash table in computer science?",
+        "answer": "A hash table is a data structure that allows for quick lookup of data based on a key. It uses a hash function to convert a key into a unique index within an array, making it possible to retrieve data in constant time",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 41
+    },
+    "3330522560481664869": {
+        "question": "What is opportunity cost in economics?",
+        "answer": "Opportunity cost is the value of the next best alternative that must be given up when making a decision. It reflects the trade-offs that must be made when allocating limited resources to different uses.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 25
+    },
+    "5848319622512793419": {
+        "question": "What is the Pythagorean theorem and how is it used?",
+        "answer": "It is a formula a\u00b2 + b\u00b2 = c\u00b2 used to find the length of one side of a right triangle given the lengths of the other two sides.",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 57
+    },
+    "4454207569280769555": {
+        "question": "What is the formula for calculating GDP?",
+        "answer": "GDP = C + I + G + NX (where C is consumer spending, I is investment spending, G is government spending, and NX is net exports).",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 31
+    },
+    "3201918119799013285": {
+        "question": "What is binary code and how is it used in computing?",
+        "answer": "Binary code is a system of representing data using only 0's and 1's. It is used in computing to represent all types of data and instructions that computers process.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 96
+    },
+    "6724722013481742809": {
+        "question": "What is the difference between fixed and variable costs in economics?",
+        "answer": "Fixed costs remain constant regardless of the level of output, while variable costs change with the level of output.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 63
+    },
+    "3962662000245176897": {
+        "question": "What is a derivative in calculus and how is it used?",
+        "answer": "A derivative is a mathematical tool used to find the instantaneous rate of change of a function at a particular point. It has numerous practical applications in fields such as physics and engineering.",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 73
+    },
+    "3250435445356976449": {
+        "question": "What is the difference between a compiler and an interpreter in computer science?",
+        "answer": "A compiler translates source code into machine code that can be directly executed by a computer, while an interpreter translates source code into an intermediate language that is executed by a virtual machine.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 66
+    },
+    "2081132985905015055": {
+        "question": "What is the Law of Supply and how is it used in economics?",
+        "answer": "The Law of Supply states that the quantity of a good supplied will increase as the price of the good increases, all other factors being equal. It is used in economics to help predict producer behavior in response to changes in price.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 19
+    },
+    "2018269865653430311": {
+        "question": "What is the difference between discrete and continuous data in math?",
+        "answer": "Discrete data can only take on integer values, while continuous data can take on any value within a certain range or interval.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 1
+    },
+    "8783594336216209971": {
+        "question": "What is an algorithm in computer science and how is it used?",
+        "answer": "An algorithm is a set of specific steps that solves a particular problem or completes a particular task. Algorithms are used in programming to create software applications and automate tasks.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 70
+    },
+    "2534554211573942929": {
+        "question": "What is the Pythagorean Theorem used for?",
+        "answer": "Finding the length of the sides of a right triangle",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 28
+    },
+    "7875222182153697534": {
+        "question": "What is the formula for calculating Gross Domestic Product (GDP)?",
+        "answer": "C+I+G+(X-M)",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 29
+    },
+    "2922250826888781715": {
+        "question": "What is the binary equivalent of the decimal number 15?",
+        "answer": "1111",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 31
+    },
+    "7505005397741799989": {
+        "question": "In computer science, what is a stack?",
+        "answer": "A data structure that follows last-in, first-out (LIFO) principle",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 64
+    },
+    "9190857414273530397": {
+        "question": "What is the formula for calculating compound interest?",
+        "answer": "A=P(1+r/n)^(nt)",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 27
+    },
+    "7085876866455326306": {
+        "question": "What is the formula for calculating the area of a circle?",
+        "answer": "\u03c0r^2",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 99
+    },
+    "3247330397827743648": {
+        "question": "What is an algorithm in computer science?",
+        "answer": "A step-by-step procedure to solve a problem or complete a task",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 13
+    },
+    "1850071265047608935": {
+        "question": "What is the difference between a recession and a depression in economics?",
+        "answer": "A recession is a significant decline in economic activity, while a depression is a severe and prolonged downturn",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 59
+    },
+    "7702330512771578524": {
+        "question": "What is the purpose of the modulo operator in programming?",
+        "answer": "It returns the remainder of a division operation between two numbers",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 54
+    },
+    "8485273996531165305": {
+        "question": "What is the Pythagorean Theorem used for?",
+        "answer": "Finding the length of the sides of a right triangle",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 67
+    },
+    "2930982401803761622": {
+        "question": "What is the formula for calculating simple interest?",
+        "answer": "I = Prt (I = Interest, P = Principal, r = rate, t = time)",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 44
+    },
+    "1077720930238316120": {
+        "question": "What is the binary code for the decimal number 10?",
+        "answer": "1010",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 100
+    },
+    "7628764823171215937": {
+        "question": "What is the difference between microeconomics and macroeconomics?",
+        "answer": "Microeconomics studies individual economic units, while macroeconomics studies the economy as a whole",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "5403973667415376593": {
+        "question": "What is the difference between a compiler and an interpreter?",
+        "answer": "A compiler translates entire code into machine language at once, while an interpreter translates the code line by line",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 91
+    },
+    "2682079827997647528": {
+        "question": "What is the purpose of a database?",
+        "answer": "To store, organize, and manage data efficiently",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 37
+    },
+    "2905053739544225257": {
+        "question": "What is the formula for calculating GDP?",
+        "answer": "GDP = C + I + G + NX (C = Consumption, I = Investment, G = Government Spending, NX = Net Exports)",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 69
+    },
+    "9098576294900864698": {
+        "question": "What is a logarithm used for in mathematics?",
+        "answer": "To solve equations with exponential variables",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 31
+    },
+    "3273687523449322420": {
+        "question": "What is the purpose of an algorithm in computer science?",
+        "answer": "To provide a step-by-step solution to a problem or task",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 91
+    },
+    "4829015176689041350": {
+        "question": "How do you find the area of a trapezoid?",
+        "answer": "Add base 1 and base 2, multiply by the height, then divide by 2.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 26
+    },
+    "7696026821125293885": {
+        "question": "What is the difference between microeconomics and macroeconomics?",
+        "answer": "Microeconomics focuses on individuals and firms while macroeconomics studies the entire economy as a whole.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 62
+    },
+    "5303796209480005254": {
+        "question": "What does the acronym HTML stand for?",
+        "answer": "Hyper Text Markup Language",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 86
+    },
+    "2736625071018518620": {
+        "question": "What is the formula for calculating simple interest?",
+        "answer": "I = PRT (Interest = Principal x Rate x Time)",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 89
+    },
+    "6816901258602516215": {
+        "question": "What is the Pythagorean Theorem?",
+        "answer": "a\u00b2 + b\u00b2 = c\u00b2",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 97
+    },
+    "8831015875749515872": {
+        "question": "What is the difference between a compiler and an interpreter?",
+        "answer": "A compiler translates source code into machine code, while an interpreter directly executes the source code.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 23
+    },
+    "1076322214633664186": {
+        "question": "What is the derivative of x\u00b2?",
+        "answer": "2x",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 90
+    },
+    "5325678687620822500": {
+        "question": "What is the equation for the line using the slope-intercept form?",
+        "answer": "y = mx + b, where m is the slope and b is the y-intercept.",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 2
+    },
+    "7023839418495511068": {
+        "question": "What is an algorithm in computer science?",
+        "answer": "A set of steps or instructions that solve a specific problem or accomplish a specific task.",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 41
+    },
+    "6271178772150519120": {
+        "question": "What is the formula for calculating the area of a circle? ",
+        "answer": " \u03c0r\u00b2",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 37
+    },
+    "122265809214324731": {
+        "question": "What is the current U.S. federal minimum wage? ",
+        "answer": "",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 41
+    },
+    "938712660914997859": {
+        "question": "In economics, what is the law of supply and demand? ",
+        "answer": " The law that states that the price of a good or service is determined by the supply and demand for that good or service.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 20
+    },
+    "5384118553611877979": {
+        "question": "What is the binary representation of the number 10? ",
+        "answer": " 1010",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 72
+    },
+    "8437367252003138793": {
+        "question": "What does OOP stand for in computer science? ",
+        "answer": " Object-Oriented Programming",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 12
+    },
+    "1098570954438377749": {
+        "question": "What is the formula for calculating the slope of a line? ",
+        "answer": " (y2-y1)/(x2-x1)",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 35
+    },
+    "8746630707388232850": {
+        "question": "What is the difference between a byte and a bit? ",
+        "answer": " A byte is made up of 8 bits.",
+        "difficulty": "easy",
+        "subject": "economics",
+        "likes": 41
+    },
+    "3375444614740802571": {
+        "question": "What is the equation for the Pythagorean theorem? ",
+        "answer": " a\u00b2+b\u00b2=c\u00b2",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 65
+    },
+    "8261689060820237974": {
+        "question": "What is the difference between a variable and a constant in programming? ",
+        "answer": " A variable can change its value during program execution, while a constant cannot.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 83
+    },
+    "7451103719569164037": {
+        "question": "What is the Pythagorean Theorem?",
+        "answer": "a\u00b2+b\u00b2=c\u00b2",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 55
+    },
+    "1923028363582135868": {
+        "question": "What is the difference between microeconomics and macroeconomics?",
+        "answer": "Microeconomics studies individuals and firms, while macroeconomics studies the economy as a whole.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 16
+    },
+    "7290533993373963634": {
+        "question": "What is the Pythagorean Theorem?",
+        "answer": "a\u00b2 + b\u00b2 = c\u00b2",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 21
+    },
+    "6381292998753924887": {
+        "question": "What is the difference between a function and a method in programming?",
+        "answer": "A function returns a value, while a method performs an action.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 59
+    },
+    "8043117407732865861": {
+        "question": "What is the difference between supply and demand in economics?",
+        "answer": "Supply is the quantity of a good or service that producers are willing to supply, while demand is the quantity of a good or service that consumers are willing to buy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 81
+    },
+    "1883560102099852002": {
+        "question": "What is the value of pi?",
+        "answer": "approximately 3.14",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 47
+    },
+    "9126914062062112302": {
+        "question": "What is the difference between a loop and a conditional statement in programming?",
+        "answer": "A loop repeats a certain section of code while a conditional statement only executes if a certain condition is met.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 15
+    },
+    "6114166322304753146": {
+        "question": "What is the law of supply and demand?",
+        "answer": "The law of supply and demand states that in a free market, the price of a good or service will eventually settle at a point where the quantity supplied equals the quantity demanded.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 27
+    },
+    "8592768462420829094": {
+        "question": "What is the difference between a bit and a byte?",
+        "answer": "A bit is the smallest unit of digital information, while a byte is typically comprised of 8 bits.",
+        "difficulty": "easy",
+        "subject": "economics",
+        "likes": 51
+    },
+    "6702272083598802943": {
+        "question": "What is the difference between inflation and deflation?",
+        "answer": "Inflation is an increase in the general price level of goods and services, while deflation is a decrease in the general price level of goods and services.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 11
+    },
+    "5058801162560132138": {
+        "question": "What is the equation for a circle in standard form?",
+        "answer": " (x - h)^2 + (y - k)^2 = r^2",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 25
+    },
+    "5682504515919535757": {
+        "question": "What is the difference between monopolistic competition and pure competition?",
+        "answer": "Monopolistic competition involves firms selling similar but differentiated products while pure competition involves identical products sold by many different firms.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 74
+    },
+    "7321345656682719697": {
+        "question": "What is the binary representation of the decimal number 27?",
+        "answer": "11011",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 31
+    },
+    "3013635970694844936": {
+        "question": "What does HTML stand for?",
+        "answer": "Hypertext Markup Language",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 89
+    },
+    "6882763875917336429": {
+        "question": "What is the formula for calculating the elasticity of demand?",
+        "answer": "Percentage change in quantity demanded divided by the percentage change in price",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 58
+    },
+    "6000281249451382553": {
+        "question": "What is a break statement used for?",
+        "answer": "To exit a loop and stop its execution",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 35
+    },
+    "2984744292786945599": {
+        "question": "What is the difference between a compiler and interpreter?",
+        "answer": "A compiler translates code into machine language all at once while an interpreter translates code line by line as it is executed",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 91
+    },
+    "9124917024841363801": {
+        "question": "What is the formula for calculating compound interest?",
+        "answer": "A=P(1+r/n)^nt",
+        "difficulty": "hard",
+        "subject": "economics",
+        "likes": 37
+    },
+    "3083077720378951281": {
+        "question": "What is the maximum number of edges in a complete graph with 6 vertices?",
+        "answer": "15",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 30
+    },
+    "5655476691358174142": {
+        "question": "What is the derivative of x^2?",
+        "answer": "2x",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 0
+    }
+}

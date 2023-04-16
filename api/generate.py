@@ -17,10 +17,10 @@ for file in os.listdir('data'):
         body = q['question'] + '|' + q['answer']
         questions.append(body)
 
-def generate_question(sample):
+def generate_questions():
     completion = openai.ChatCompletion()
     chat_log = []
-    prompt = "Make 10 questions similiar to this one with the answer after it with a | in between and the questions seperated '$' (dont number them): \n" + sample
+    prompt = "Make 10 questions about either math, computer science, or economics, with the answer after each with a | in between and the questions seperated '$' (dont number them): \n" + sample
     chat_log.append({'role': 'user', 'content': prompt})
     response = completion.create(model='gpt-3.5-turbo', messages=chat_log)
     reply = response.choices[0]['message']['content']
@@ -41,7 +41,7 @@ def generate_question(sample):
 def generate_N(N):
     for i in range(N):
         sample = choice(questions)
-        gen = generate_question(sample)
+        gen = generate_questions()
         sleep(20)
         print(f'{i} | {gen}')
 
