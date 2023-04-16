@@ -1,0 +1,807 @@
+{
+    "2957559131742585375": {
+        "question": "What is the derivative of x^2?",
+        "answer": "2x",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 0
+    },
+    "4518597701486377775": {
+        "question": "What is the derivative of x^2?",
+        "answer": "2x",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 0
+    },
+    "9044469555057171597": {
+        "question": "What is the value of the limit as x approaches 2 of (x^2 - 4x + 4) / (x - 2) ?",
+        "answer": "4",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "2730012222078037022": {
+        "question": "What is the value of the limit as x approaches -5 of (x^3 + 5x^2 - 75x) / (x + 5) ?",
+        "answer": "-250",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "8151364725845048617": {
+        "question": "What is the value of the limit as x approaches infinity of (2x^2 - 5x + 1) / (3x^2 + 4x + 1) ?",
+        "answer": "2/3",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "8021975783667645476": {
+        "question": "What is the value of the limit as x approaches 1 of (x^3 - 3x^2 + x + 1) / (x - 1)^2 ?",
+        "answer": "0",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "8603784764311109227": {
+        "question": "What is the value of the limit as x approaches 3pi/2 of sin(2x) ?",
+        "answer": "-1",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "431153324312846277": {
+        "question": "What is the value of the limit as x approaches 0 from the left of tan(1/x) ?",
+        "answer": "-infinity",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "6087059785908504467": {
+        "question": "What is the value of the limit as x approaches 1 of (x - 1) / ln(x) ?",
+        "answer": "1",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "1751342612539174806": {
+        "question": "What is the value of the limit as x approaches infinity of (3x^2 - 2x + 1) / (x^3 + 5x^2 + 2) ?",
+        "answer": "0",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "8161386762573224090": {
+        "question": "What is the value of the limit as x approaches -1 from the left of (x^2 - 1) / (x + 1) ?",
+        "answer": "-2",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "4228626686655608289": {
+        "question": "What is the value of the limit as x approaches pi/3 of (cos(x/2) - sqrt(3)) / (x - pi/3) ?",
+        "answer": "-(1/4)sqrt(3)",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "5631495306238404435": {
+        "question": "What are the two types of economies?",
+        "answer": "Command economy and market economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "5234431445105350681": {
+        "question": "Who makes all economic decisions in a command economy?",
+        "answer": "The government.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "163610125898208415": {
+        "question": "What do individuals and businesses rely on to make economic decisions in a market economy?",
+        "answer": "Supply and demand.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "8634585090814722914": {
+        "question": "What type of economy allows for more personal freedom?",
+        "answer": "Market economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "3525584976479277716": {
+        "question": "What type of economy allows for more government control?",
+        "answer": "Command economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "396205173442378524": {
+        "question": "In which type of economy do individuals have more economic power?",
+        "answer": "Market economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "928985633342836033": {
+        "question": "Which type of economy is more common in the world today?",
+        "answer": "Market economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "5746608284637405509": {
+        "question": "What type of economy is North Korea an example of?",
+        "answer": "Command economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "5294350043312191637": {
+        "question": "What type of economy is the United States an example of?",
+        "answer": "Market economy.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "5153489040684614310": {
+        "question": "What is the most significant difference between command and market economies?",
+        "answer": "The role of the government in economic decision-making.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "1053310187987577108": {
+        "question": "What is the purpose of a census?",
+        "answer": "To collect and record data about a population.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "1970415615048526637": {
+        "question": "What is the main function of the Federal Reserve?",
+        "answer": "To oversee the monetary policy of the United States and regulate its banking system.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "8280344161766490560": {
+        "question": "What is an oligopoly?",
+        "answer": "A market structure in which a few large firms dominate the industry.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "4372804770756321328": {
+        "question": "What is a budget deficit?",
+        "answer": "When a government spends more money than it receives in revenue.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "4586728410904872411": {
+        "question": "What is the difference between a stock and a bond?",
+        "answer": "A stock represents ownership in a company, while a bond represents a loan made to a company or government.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "892017284037912221": {
+        "question": "What is the purpose of a patent?",
+        "answer": "To give the owner exclusive rights to sell or manufacture an invention for a certain amount of time.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "7544552611720260929": {
+        "question": "What is the difference between a debit card and a credit card?",
+        "answer": "A debit card withdraws money directly from a consumer's account, while a credit card allows a consumer to borrow money to make purchases.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "3025477143652842039": {
+        "question": "What is the definition of GDP?",
+        "answer": "Gross Domestic Product measures the value of all goods and services produced within a country's borders in a given period of time.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "8233708100350321959": {
+        "question": "What is the purpose of a trade union?",
+        "answer": "To advocate for and protect the rights of workers within a particular industry or occupation.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "4001612648658188156": {
+        "question": "What is the output of the following code: print(3*3/2-1)",
+        "answer": "4.5",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "8630564287809934513": {
+        "question": "What is the output of the following code: print(4**2-3**3)",
+        "answer": "-19",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "3621875933699654913": {
+        "question": "What is the output of the following code: print(10%3+2-5)",
+        "answer": "-1",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "8953436198553272839": {
+        "question": "What is the output of the following code: print((8-3)*2+9/3)",
+        "answer": "13",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "4825174164736921725": {
+        "question": "What is the output of the following code: print(2**3**2)",
+        "answer": "512",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "8069805857050526040": {
+        "question": "What is the output of the following code: print(2*(2+2)**2-3)",
+        "answer": "29",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "4159862440584887183": {
+        "question": "What is the output of the following code: print(7+((9-3)*2)-1)",
+        "answer": "19",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "3774484249603747244": {
+        "question": "What is the output of the following code: print(12/3-2+7//2)",
+        "answer": "9",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "3444823852335158163": {
+        "question": "What is the output of the following code: print(5-2*3)",
+        "answer": "-1",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "5059799375537798833": {
+        "question": "What is the time complexity of the bubble sort algorithm?",
+        "answer": "O(n^2)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "3146247463450946818": {
+        "question": "What is the time complexity of the merge sort algorithm?",
+        "answer": "O(n log n)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "3919351313715739416": {
+        "question": "What is the time complexity of the quicksort algorithm?",
+        "answer": "O(n^2) in the worst case, but O(n log n) on average",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "2892086159718020686": {
+        "question": "What is the time complexity of the insertion sort algorithm?",
+        "answer": "O(n^2)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "8983255475632557466": {
+        "question": "What is the time complexity of the heap sort algorithm?",
+        "answer": "O(n log n)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "8955618558430276432": {
+        "question": "What is the time complexity of the radix sort algorithm?",
+        "answer": "O(nk)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "3813153610026764400": {
+        "question": "What is the time complexity of the shell sort algorithm?",
+        "answer": "O(n log n)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "1243150450162144661": {
+        "question": "What is the time complexity of the counting sort algorithm?",
+        "answer": "O(n+k)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "6741647309125439263": {
+        "question": "What is the time complexity of the bucket sort algorithm?",
+        "answer": "O(n+k)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "1047986265558155188": {
+        "question": "What is the time complexity of the cocktail sort algorithm?",
+        "answer": "O(n^2)",
+        "difficulty": "hard",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "1916960080694875747": {
+        "question": "What is the output of the following code: print('world'[2:4])",
+        "answer": "rl",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "602150346567238030": {
+        "question": "What is the output of the following code: print('python'[3:6])",
+        "answer": "hon",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "1971181581861009919": {
+        "question": "What is the output of the following code: print('happy'[1:])",
+        "answer": "appy",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "5613547245168506859": {
+        "question": "What is the output of the following code: print('python'[:2])",
+        "answer": "py",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "5381666974851484732": {
+        "question": "What is the output of the following code: print('computer'[:-3])",
+        "answer": "comput",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "4222279828663542528": {
+        "question": "What is the output of the following code: print('hello'[-3:-1])",
+        "answer": "ll",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "211002963139826414": {
+        "question": "What is the output of the following code: print('example'[4:-1])",
+        "answer": "pl",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "5347712635168069398": {
+        "question": "What is the output of the following code: print('programming'in 'python programming')",
+        "answer": "True",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "4724123323521304326": {
+        "question": "What is the output of the following code: print(len('coding is fun'))",
+        "answer": "13",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "2789717915579110639": {
+        "question": "What is the value of the definite integral of sin(x) with respect to x from 0 to pi?",
+        "answer": "2",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 0
+    },
+    "249923608522743503": {
+        "question": "What is the value of the definite integral of e^(2x) with respect to x from 0 to infinity?",
+        "answer": "infinity",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "3404836764672531294": {
+        "question": "What is the value of the definite integral of 1/x with respect to x from 1 to e?",
+        "answer": "ln(e)-ln(1)=1",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "5174246889610921807": {
+        "question": "What is the value of the definite integral of sqrt(x) with respect to x from 0 to 4?",
+        "answer": "(2/3)(4^(3/2)-0^(3/2))=(8/3)",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 0
+    },
+    "3511291151022367385": {
+        "question": "What is the value of the definite integral of cos(x) with respect to x from pi/4 to 3pi/4?",
+        "answer": "sin(3pi/4)-sin(pi/4)=sqrt(2)/2",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 0
+    },
+    "5459887616044559531": {
+        "question": "What is the value of the definite integral of ln(x) with respect to x from 1 to e?",
+        "answer": "e-1",
+        "difficulty": "medium",
+        "subject": "math",
+        "likes": 0
+    },
+    "7763564478117346175": {
+        "question": "What is the value of the definite integral of 2x+1 with respect to x from -1 to 1?",
+        "answer": "4",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "6819447774665416726": {
+        "question": "What is the value of the definite integral of xe^(x^2) with respect to x from 0 to 1?",
+        "answer": " (e-1)/2",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "6781980661849105093": {
+        "question": "What is the value of the definite integral of sin^2(x) with respect to x from 0 to pi/2?",
+        "answer": "(pi)/4",
+        "difficulty": "hard",
+        "subject": "math",
+        "likes": 0
+    },
+    "3035650464066799475": {
+        "question": "What is the result of evaluating the postfix expression '5 6 + 7 -'?",
+        "answer": "-2",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "6075679371361940044": {
+        "question": "What is the result of evaluating the postfix expression '1 2 3 * +'?",
+        "answer": "7",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "4518719875933437083": {
+        "question": "What is the result of evaluating the postfix expression '9 8 - 7 6 - *'?",
+        "answer": "15",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "7882017081789574927": {
+        "question": "What is the result of evaluating the postfix expression '4 2 / 3 * 5 +'?",
+        "answer": "11",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "651766689181805602": {
+        "question": "What is the result of evaluating the postfix expression '8 4 / 9 * 3 /'?",
+        "answer": "1",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "4385336429779208459": {
+        "question": "What is the result of evaluating the postfix expression '5 5 * 6 2 / +'?",
+        "answer": "31",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "3157982253390334350": {
+        "question": "What is the result of evaluating the postfix expression '1 2 + 3 4 + /'?",
+        "answer": "0.375",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "6921113818263182390": {
+        "question": "What is the result of evaluating the postfix expression '3 4 * 5 / 6 7 * -'?",
+        "answer": "-6.4285",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "7725218919782969271": {
+        "question": "What is the result of evaluating the postfix expression '12 4 / 2 5 * +'?",
+        "answer": "14",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "6937320104037283159": {
+        "question": "What is the result of evaluating the postfix expression '9 3 / 7 6 - * 8 +'?",
+        "answer": "11",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "2366603185548504577": {
+        "question": "What is protectionism? ",
+        "answer": " Protectionism is the use of trade barriers to protect domestic industries from foreign competition.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "8208758325993851231": {
+        "question": "What is a trade deficit? ",
+        "answer": " A trade deficit occurs when a country imports more goods than it exports.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "5491943036834956502": {
+        "question": "What is comparative advantage? ",
+        "answer": " Comparative advantage is when a country can produce a good or service at a lower opportunity cost than another country.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "8970235500405419668": {
+        "question": "What is the World Trade Organization (WTO)? ",
+        "answer": " The WTO is an international organization that regulates global trade and resolves disputes between member countries.",
+        "difficulty": "easy",
+        "subject": "economics",
+        "likes": 0
+    },
+    "4630971141627169309": {
+        "question": "What is NAFTA? ",
+        "answer": " NAFTA is a trade agreement between Canada, Mexico, and the United States that eliminates trade barriers between the three countries.",
+        "difficulty": "easy",
+        "subject": "economics",
+        "likes": 0
+    },
+    "281118805904349559": {
+        "question": "What is a free trade agreement? ",
+        "answer": " A free trade agreement is a pact between two or more countries that eliminates trade barriers and tariffs on goods and services traded between them.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "4951325579441431884": {
+        "question": "What is a currency exchange rate? ",
+        "answer": " A currency exchange rate is the price of one country's currency in terms of another country's currency.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "546317137812810691": {
+        "question": "What is the balance of trade? ",
+        "answer": " The balance of trade is the difference between a country's total exports and total imports.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "5279513256134720889": {
+        "question": "What is mercantilism? ",
+        "answer": " Mercantilism is an economic theory that holds that a country's wealth is measured by its holdings of gold and silver, and that a country's exports should exceed its imports.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "1194145475314202377": {
+        "question": "What is the probability of rolling a 2 on a fair six-sided die?",
+        "answer": "1/6",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "7159958265385669791": {
+        "question": "What is the probability of rolling an odd number on a fair six-sided die?",
+        "answer": "1/2",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "8882877627778257341": {
+        "question": "What is the probability of rolling a number greater than 4 on a fair six-sided die?",
+        "answer": "1/3",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "7878123958298613010": {
+        "question": "What is the probability of rolling a number less than 3 on a fair six-sided die?",
+        "answer": "1/3",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "8154382272259382252": {
+        "question": "What is the probability of rolling a 6 on a fair six-sided die?",
+        "answer": "1/6",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "7518984020256502674": {
+        "question": "What is the probability of rolling a number less than or equal to 2 on a fair six-sided die?",
+        "answer": "1/3",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "9107433872521959329": {
+        "question": "What is the probability of rolling an even number on a fair six-sided die?",
+        "answer": "1/2",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "448616219633819498": {
+        "question": "What is the probability of rolling a number greater than or equal to 5 on a fair six-sided die?",
+        "answer": "1/3",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "3857684658998321385": {
+        "question": "What is the probability of rolling a number less than 6 on a fair six-sided die?",
+        "answer": "5/6",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "7785233324446714620": {
+        "question": "What is the sum of the first 50 positive integers?",
+        "answer": "1275",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "5585320942264013059": {
+        "question": "What is the sum of the first 200 positive integers?",
+        "answer": "20100",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "2621655289929721678": {
+        "question": "What is the sum of the first 10 positive integers?",
+        "answer": "55",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "2579140959819736334": {
+        "question": "What is the sum of the first 500 positive integers?",
+        "answer": "125250",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "9148028579606062762": {
+        "question": "What is the sum of the first 20 positive integers?",
+        "answer": "210",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "2531579972981025728": {
+        "question": "What is the sum of the first 1000 positive integers?",
+        "answer": "500500",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "5316076953564690612": {
+        "question": "What is the sum of the first 25 positive integers?",
+        "answer": "325",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "7564603557469190138": {
+        "question": "What is the sum of the first 50 even positive integers?",
+        "answer": "2550",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "4562192954143424008": {
+        "question": "What is the sum of the first 100 odd positive integers?",
+        "answer": "10000",
+        "difficulty": "easy",
+        "subject": "math",
+        "likes": 0
+    },
+    "1525931652061080249": {
+        "question": "What happens when you assign a list to a new variable in Python?",
+        "answer": "The new variable points to the same list object as the original variable.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "3084758465420386992": {
+        "question": "If you modify a list that was assigned to two different variables, will the changes appear in both variables?",
+        "answer": "Yes, because they point to the same list object.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "5711073138533567122": {
+        "question": "Can you create a copy of a list without affecting the original list?",
+        "answer": "Yes, by using the list() function or slicing it.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "6488472386730887437": {
+        "question": "If you use slicing to create a copy of a list, will the copy be independent of the original?",
+        "answer": "Yes, because a new list object is created.",
+        "difficulty": "medium",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "1118334014946255814": {
+        "question": "What is the difference between shallow and deep copy of a list?",
+        "answer": "Shallow copy only copies the top-level elements, while deep copy copies the whole nested structure.",
+        "difficulty": "medium",
+        "subject": "economics",
+        "likes": 0
+    },
+    "8551615145504342181": {
+        "question": "What is the output of the following code: x = [1, 2, 3] y = x[1:2] y[0] = 4 print(x)",
+        "answer": "[1, 2, 3]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "1185144313454208527": {
+        "question": "What is the output of the following code: x = [1, [2, 3], 4] y = x.copy() y[1][0] = 9 print(x)",
+        "answer": "[1, [9, 3], 4]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "1025153696486671740": {
+        "question": "What is the output of the following code: x = [1, 2, 3] y = [4, 5, 6] z = x + y print(z)",
+        "answer": "[1, 2, 3, 4, 5, 6]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "6466447289295102295": {
+        "question": "What is the output of the following code: x = [1, 2, 3] x.pop() print(x)",
+        "answer": "[1, 2]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    },
+    "2091424328620620564": {
+        "question": "What is the output of the following code: x = [1, 2, 3] x.insert(1, 4) print(x)",
+        "answer": "[1, 4, 2, 3]",
+        "difficulty": "easy",
+        "subject": "computer science",
+        "likes": 0
+    }
+}

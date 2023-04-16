@@ -1,0 +1,56 @@
+[
+    {
+      "subject": "Math",
+      "question": "What is the value of the definite integral of x^2 with respect to x from 0 to 3?",
+      "answer": "9",
+      "difficulty": "Hard"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the value of the derivative of ln(x) with respect to x?",
+      "answer": "1/x",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the value of the product of the roots of the quadratic equation x^2 - 5x + 6 = 0?",
+      "answer": "6",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the output of the following code: print(len('python'))?",
+      "answer": "6",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the output of the following code: print(4 % 3)?",
+      "answer": "1",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the time complexity of the selection sort algorithm?",
+      "answer": "O(n^2)",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between a monopoly and an oligopoly?",
+      "answer": "A monopoly exists when a single firm dominates a market, while an oligopoly exists when a small number of firms dominate a market.",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between GDP and GNP?",
+      "answer": "GDP measures the value of all goods and services produced within a country's borders, while GNP measures the value of all goods and services produced by a country's residents, regardless of where they are located.",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between a subsidy and a tax?",
+      "answer": "A subsidy is a payment made by the government to producers, while a tax is a payment made by producers to the government.",
+      "difficulty": "Easy"
+    }
+  ]

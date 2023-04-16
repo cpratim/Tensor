@@ -1,0 +1,74 @@
+[
+    {
+      "subject": "Math",
+      "question": "What is the value of pi rounded to two decimal places?",
+      "answer": "3.14",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the equation of a line passing through the points (1,2) and (3,4)?",
+      "answer": "y = x + 1",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the square root of 81?",
+      "answer": "9",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the probability of rolling a 4 on a fair six-sided die?",
+      "answer": "1/6",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the output of the following code: print(2+2*2)",
+      "answer": "6",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the result of evaluating the postfix expression '2 3 * 4 +'?",
+      "answer": "10",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the output of the following code: print('hello'[1:3])",
+      "answer": "el",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the time complexity of the merge sort algorithm?",
+      "answer": "O(nlogn)",
+      "difficulty": "Hard"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between nominal GDP and real GDP?",
+      "answer": "Nominal GDP is measured in current prices, while real GDP is adjusted for inflation.",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the formula for calculating the price elasticity of demand?",
+      "answer": "Percentage change in quantity demanded divided by percentage change in price.",
+      "difficulty": "Hard"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the opportunity cost of choosing to watch a movie instead of studying for an exam?",
+      "answer": "The potential benefit forgone from studying for the exam.",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between a monopoly and an oligopoly?",
+      "answer": "A monopoly exists when there is only one seller in the market, while an oligopoly exists when a few sellers dominate the market.",
+      "difficulty": "Easy"
+    }
+  ]

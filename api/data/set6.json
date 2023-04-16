@@ -1,0 +1,56 @@
+[
+    {
+      "subject": "Math",
+      "question": "What is the value of the derivative of f(x) = x^2 + 2x with respect to x?",
+      "answer": "2x + 2",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the sum of the first 100 positive integers?",
+      "answer": "5050",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the value of the limit as x approaches infinity of (2x^2 - 5x + 1) / (3x^2 + 4x + 1)?",
+      "answer": "2/3",
+      "difficulty": "Hard"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the output of the following code: x = [1, 2, 3] \n y = x \n y[0] = 4 \n print(x)",
+      "answer": "[4, 2, 3]",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the output of the following code: print('hello'[::-1])?",
+      "answer": "olleh",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the time complexity of the bubble sort algorithm?",
+      "answer": "O(n^2)",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between a tariff and a quota?",
+      "answer": "A tariff is a tax imposed on imported goods, while a quota is a limit on the quantity of a particular good that can be imported.",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between GDP and GNP?",
+      "answer": "GDP measures the total value of goods and services produced within a country's borders, while GNP measures the total value of goods and services produced by a country's residents, regardless of their location.",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between a monopoly and an oligopoly?",
+      "answer": "A monopoly is a market structure in which a single firm dominates the market, while an oligopoly is a market structure in which a few large firms dominate the market.",
+      "difficulty": "Hard"
+    }
+  ]

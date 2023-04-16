@@ -1,0 +1,74 @@
+[
+    {
+      "subject": "Math",
+      "question": "What is the value of e raised to the power of 0?",
+      "answer": "1",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the value of sin(pi/2)?",
+      "answer": "1",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the area of a circle with radius 5?",
+      "answer": "78.54",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the probability of rolling two sixes in a row on a pair of fair six-sided dice?",
+      "answer": "1/36",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the output of the following code: print('hello world'.split())?",
+      "answer": "['hello', 'world']",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the result of evaluating the infix expression '2 * (3 + 4)'?",
+      "answer": "14",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the output of the following code: print(3 < 4 and 4 < 5)?",
+      "answer": "True",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the time complexity of the binary search algorithm?",
+      "answer": "O(logn)",
+      "difficulty": "Hard"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between a progressive tax and a regressive tax?",
+      "answer": "A progressive tax takes a larger percentage of income from high-income earners, while a regressive tax takes a larger percentage of income from low-income earners.",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the formula for calculating the marginal product of labor?",
+      "answer": "Change in output divided by change in labor input.",
+      "difficulty": "Hard"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between a trade deficit and a trade surplus?",
+      "answer": "A trade deficit occurs when a country imports more than it exports, while a trade surplus occurs when a country exports more than it imports.",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between monetary policy and fiscal policy?",
+      "answer": "Monetary policy is controlled by the central bank and involves changing interest rates and the money supply, while fiscal policy is controlled by the government and involves changing government spending and taxation.",
+      "difficulty": "Medium"
+    }
+  ]

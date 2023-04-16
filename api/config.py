@@ -1,0 +1,1 @@
+SECRET = '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'

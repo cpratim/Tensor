@@ -1,0 +1,56 @@
+[
+    {
+      "subject": "Math",
+      "question": "What is the value of the definite integral of sin(x) with respect to x from 0 to pi/2?",
+      "answer": "1",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the value of the limit as x approaches 0 of (e^x - 1) / x?",
+      "answer": "1",
+      "difficulty": "Hard"
+    },
+    {
+      "subject": "Math",
+      "question": "What is the value of the derivative of cos(x) with respect to x?",
+      "answer": "-sin(x)",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the output of the following code: print(3 * 'hello')?",
+      "answer": "hellohellohello",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the output of the following code: print(5 // 2)?",
+      "answer": "2",
+      "difficulty": "Easy"
+    },
+    {
+      "subject": "Computer Science",
+      "question": "What is the time complexity of the binary search algorithm?",
+      "answer": "O(log n)",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between a recession and a depression?",
+      "answer": "A recession is a significant decline in economic activity that lasts for at least six months, while a depression is a severe and prolonged recession characterized by a steep decline in economic output, high unemployment, and financial crises.",
+      "difficulty": "Hard"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between a budget deficit and a national debt?",
+      "answer": "A budget deficit occurs when government spending exceeds government revenue in a given year, while the national debt is the total amount of money that a government owes to its creditors.",
+      "difficulty": "Medium"
+    },
+    {
+      "subject": "Economics",
+      "question": "What is the difference between a command economy and a market economy?",
+      "answer": "In a command economy, the government makes all economic decisions, while in a market economy, individuals and businesses make economic decisions through the operation of supply and demand.",
+      "difficulty": "Easy"
+    }
+  ]
