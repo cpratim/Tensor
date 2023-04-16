@@ -9,9 +9,14 @@ def contribute():
     json = request.get_json()
     return
 
-@api.route('/', methods=['GET'])
+@api.route('/query', methods=['GET'])
 def query():
     return render_template('query.html')
+
+@api.route('/')
+def login():
+    return render_template('login.html')
+
 
 @api.route('/upload')
 def upload():

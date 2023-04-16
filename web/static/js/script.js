@@ -1,7 +1,7 @@
 window.addEventListener('load', function () {
     // FirebaseUI config.
     var uiConfig = {
-      signInSuccessUrl: '/SignedIn',
+      signInSuccessUrl: '/query',
       signInOptions: [
        
         firebase.auth.GoogleAuthProvider.PROVIDER_ID,
